@@ -1,4 +1,4 @@
-<b>Backend Application (API) with Laravel Sanctum as Personal Token Authentication</b>
+<b>Backend Application (API) with <a href="https://laravel.com/docs/9.x/sanctum" target="_blank">Laravel Sanctum</a> as Personal Token Authentication</b>
 <br>Using Laravel version 9.x and PHP version 8.x
 <br><br>Available features (will be updated):
 <br>
